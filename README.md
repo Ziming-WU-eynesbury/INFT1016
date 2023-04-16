@@ -34,3 +34,4 @@ Format this text as code.
 def foo():
     if not bar:
         return True
+![](auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.)
