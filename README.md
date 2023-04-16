@@ -29,9 +29,12 @@ Here's an ordered list, with:
 This is a block quote. It should be in block quotes! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 # This is a large heading. 
 Inline code: make this word inline. 
-This is a large heading. 
+# This is a large heading. 
 Format this text as code. 
 def foo():
     if not bar:
         return True
 ![]( https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.)
+
+def my_function():
+  print("Hello from a function")
