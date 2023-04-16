@@ -30,5 +30,8 @@ This is a block quote. It should be in block quotes! Lorem ipsum dolor sit amet,
 # This is a large heading. 
 Inline code: make this word inline. 
 # This is a large heading. 
-
+Format this text as code. 
+def foo():
+    if not bar:
+        return True
 ![]( https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.)
