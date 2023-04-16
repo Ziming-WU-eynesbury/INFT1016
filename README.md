@@ -40,5 +40,3 @@ def foo():
 |   1    | Red     |   Small   |
 |  12    | Blue    |  Medium   |
 | 123    | Green   |   Large   |
-def my_function():
-  print("Hello from a function")
