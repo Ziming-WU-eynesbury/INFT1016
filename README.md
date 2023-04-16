@@ -1,3 +1,3 @@
-# _*inft1016_week8_practicals*_
+# _inft1016_week8_practicals_
 
 ## Ziming WU
