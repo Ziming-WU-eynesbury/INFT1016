@@ -1,0 +1,46 @@
+html{
+  --primary-color: rgb(0,43,54);
+  --secondary-color: rgb(88,110,117);
+  --background-color: rgb(255,255,255);
+  --font-color: rgb(131,148,150);
+  --heading-color: rgb(7,54,66);
+}
+
+html[data-theme="dark"] {
+  --primary-color: rgb(255,212,201);
+  --secondary-color: rgb(167,43,54);
+  --background-color: rgb(0,0,0);
+  --font-color: rgb(124,107,105);
+  --heading-color: rgb(247,201,189);
+}
+
+body {color: var(--primary-color);
+  background-color: var(--background-color);
+  
+   }
+
+  .section-box {
+    padding: 10px;
+  }
+  header h1{
+    text-align: center;
+    font-size: 300%;
+  }
+  h2{
+    font-size: 100%;
+  }
+  nav ul {
+    display: flex;
+    justify-content: center;
+  }
+  nav li {
+    margin: 0 10px;
+  }
+
+  body {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  h1, h2, h3 {
+    padding-top: 50px;
+  }
